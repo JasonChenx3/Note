@@ -1,4 +1,4 @@
-#### switch的四种模式
+# switch的四种模式
 
 用户模式：`switch>`
 
