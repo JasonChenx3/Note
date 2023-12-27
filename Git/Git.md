@@ -1,6 +1,6 @@
 # Git
 
-## 1.分支名称不匹配
+## 分支名称不匹配
 
 报错信息：
 
@@ -19,7 +19,7 @@ error: failed to push some refs to
 git branch -m [branchname]
 ```
 
-## 2.作用域
+## 作用域
 
 下面的命令是配置全局用户的命令。
 
@@ -35,13 +35,13 @@ git config user.name "[username]"
 git config user.email "[xxx@example.com]"
 ```  
 
-## 3.Git作用
+## Git的作用
 
 1. 代码存档。
 2. 同步不同机器的代码。
 3. 多人协作开发。
 
-## 4.配置Git环境
+## 配置Git环境
 
 1. 安装`Git Bash`。
 2. 进入家目录（`~`），生成密钥：`ssh-kengen`。
@@ -54,7 +54,7 @@ git config user.email "[xxx@example.com]"
 9. 如果是`Github`还需要切换分支为`main`。
 10. 推送到云端仓库`git push -u`。
 
-## 5.常用命令
+## Git常用命令
 
 ### 1.全局设置
 
