@@ -130,8 +130,6 @@ git config user.email "[xxx@example.com]"
 
 ### 8.stash缓存
 
-现在这一块我都已经忘掉了。。。
-
 1. `git stash`：将工作区和暂存区中尚未提交的修改存入栈中。
 2. `git stash apply`：将栈顶存储的修改恢复到当前分支，但不删除栈顶元素。
 3. `git stash drop`：删除栈顶存储的修改。
